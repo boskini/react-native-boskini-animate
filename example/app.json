@@ -1,0 +1,22 @@
+{
+  "name": "react-native-boskini-animate-example",
+  "displayName": "BoskiniAnimate Example",
+  "expo": {
+    "name": "react-native-boskini-animate-example",
+    "slug": "react-native-boskini-animate-example",
+    "description": "Example app for react-native-boskini-animate",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
