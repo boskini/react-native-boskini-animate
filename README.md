@@ -15,7 +15,6 @@ import BoskiniAnimate from "react-native-boskini-animate";
 
 // ...
 
-const result = await BoskiniAnimate.multiply(3, 7);
 ```
 
 ## Contributing
